@@ -1,0 +1,12 @@
+{
+    "cid": 208595,
+    "name": "",
+    "game": "",
+    "classifySrc": "",
+    "template": "",
+    "entry": "entry",
+    "tsIgnore": [
+        "config*",
+        "jq*"
+    ]
+}
